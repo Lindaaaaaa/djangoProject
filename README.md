@@ -15,10 +15,10 @@ Requirement
 
 Once you meet the requirement
 
-1) Open a terminal and type command $git clone 
+1) Open a terminal and type command $git clone https://github.com/Lindaaaaaa/djangoProject.git
    -- now you have clone the project
 2) type command 
-    $cd fhx
+    $cd djangoProject
    then type command 
     $python manage.py runserver  (or python3 manager.py runserver  if python3 is not the default python to run)
 3) open a browser and go to this url  http://localhost:8000/threats/
