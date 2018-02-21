@@ -3,8 +3,11 @@
 Instructions for running this program
 
 Requirement
+
 1)python3
+
 2)django >=1.9
+
 3)Django-tables2  
   could install it by simply open the terminal and type command 
   $pip install django-tables2
