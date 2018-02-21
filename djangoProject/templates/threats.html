@@ -1,0 +1,22 @@
+{# djangoProject/templates/threats.html #}
+{% load render_table from django_tables2 %}
+{% load staticfiles %}
+
+<script src="{% static "jquery-3.3.1.min.js" %}"></script>
+<script src="{% static "rango-jquery.js" %}"></script>
+<!doctype html>
+<html>
+    <head>
+        <title>List of threats</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    </head>
+    <body>
+		<select id='filterDate' style='display:inline-block'>
+			<option value='all'>All</option>
+			<option value='24-hours'>24 hours</option>
+			<option value='7-days'>7 days</option>
+			<option value='4-weeks'>4 weeks</option>
+		</select>
+        {% render_table table %}
+    </body>
+</html>

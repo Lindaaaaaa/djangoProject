@@ -1,0 +1,86 @@
+[
+	{
+	    "date": "Feb 19, 2018 13:10:59",
+	    "filename": "virus.exe",
+	    "action": "files-deleted",
+	    "submit-type":" FG300B3910602113/root",
+	    "rating": "clean"
+	},
+	{
+	    "date": "Feb 20, 2018 03:25:34",
+	    "filename": "virus.exe",
+	    "action": "files-deleted",
+	    "submit-type":" FG300B3910602113/sub",
+	    "rating": "high-risk"
+	},
+	{
+	    "date": "Feb 18, 2018 13:52:29",
+	    "filename": "notes.text",
+	    "action": "files-deleted",
+	    "submit-type":" FG300B3sdfdaa2/root",
+	    "rating": "low-risk"
+	},
+	{
+	    "date": "Dec 4, 2017 13:10:29",
+	    "filename": "notes.text",
+	    "action": "files-deleted",
+	    "submit-type":" FG300B3sdfdaa2/root",
+	    "rating": "low-risk"
+	},
+	{
+	    "date": "May 24, 2017 13:10:29",
+	    "filename": "notes.text",
+	    "action": "files-deleted",
+	    "submit-type":" FG300B3sdfdaa2/root",
+	    "rating": "low-risk"
+	},
+	{
+	    "date": "May 4, 2017 13:10:29",
+	    "filename": "notes.text",
+	    "action": "files-deleted",
+	    "submit-type":" FG300B3sdfdaa2/root",
+	    "rating": "high-risk"
+	},
+	{
+	    "date": "Dec 21, 2018 04:10:29",
+	    "filename": "notes.text",
+	    "action": "files-deleted",
+	    "submit-type":" FG300B3sdfdaa2/root",
+	    "rating": "malicious"
+	},
+	{
+	    "date": "Feb 12, 2018 04:10:29",
+	    "filename": "notes.text",
+	    "action": "files-deleted",
+	    "submit-type":" FG300B3sdfdaa2/root",
+	    "rating": "clean"
+	},
+	{
+	    "date": "Jan 31, 2018 05:10:29",
+	    "filename": "asd.text",
+	    "action": "files-deleted",
+	    "submit-type":" FG300B3sdfdaa2/root",
+	    "rating": "low-risk"
+	},
+	{
+	    "date": "Jan 31, 2016 05:10:29",
+	    "filename": "asd.text",
+	    "action": "files-deleted",
+	    "submit-type":" FG300B3sdfdaa2/root",
+	    "rating": "malicious"
+	},
+	{
+	    "date": "Jan 21, 2016 05:10:29",
+	    "filename": "asd.text",
+	    "action": "files-deleted",
+	    "submit-type":" FG300B3sdfdaa2/root",
+	    "rating": "malicious"
+	},
+	{
+	    "date": "Jan 21, 2018 09:10:29",
+	    "filename": "dsf.text",
+	    "action": "files-deleted",
+	    "submit-type":" FG300B3sdfdaa2/root",
+	    "rating": "clean"
+	}
+]
