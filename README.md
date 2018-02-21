@@ -3,9 +3,9 @@
 Instructions for running this program
 
 Requirement
-python3
-django >=1.9
-Django-tables2  
+1)python3
+2)django >=1.9
+3)Django-tables2  
   could install it by simply open the terminal and type command 
   $pip install django-tables2
   Details is here https://django-tables2.readthedocs.io/en/latest/pages/installation.html
@@ -13,7 +13,7 @@ Django-tables2
 Once you meet the requirement
 
 1) Open a terminal and type command $git clone 
-   now you have clone the project
+   -- now you have clone the project
 2) type command 
     $cd fhx
    then type command 
