@@ -23,5 +23,5 @@ Once you meet the requirement
     $python manage.py runserver  (or python3 manager.py runserver  if python3 is not the default python to run)
 3) open a browser and go to this url  http://localhost:8000/threats/  
    you can try the dropdown filter and sorting the column by click the table header of each column
-4) If you would like to test other json object,open the djangoProject fhx you just copied, then go to djangoProject/fixtures  There is one file called data.json. 
+4) If you would like to test other json object,open the djangoProject you just copied, then go to djangoProject/fixtures  There is one file called data.json. 
    You could add other test data to the json file. But make sure that the date follows the date format and it is a valid date.
